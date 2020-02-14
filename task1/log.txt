@@ -1,0 +1,11 @@
+commit d33b997a2b5eeef041f67d74492b7ebf95d8cda2 (HEAD -> master)
+Author: Cutimikado <shinator2014@gmail.com>
+Date:   Fri Feb 14 20:22:39 2020 +0300
+
+    add status.txt
+
+commit 422c4109fa3e59fac5567a181b2efbd5ee183010
+Author: Cutimikado <shinator2014@gmail.com>
+Date:   Fri Feb 14 20:17:52 2020 +0300
+
+    add .gitignore
